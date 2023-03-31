@@ -1,0 +1,1 @@
+C:\Users\User\Code\cgmath-culling\target\release\libcgmath_culling.rlib: C:\Users\User\Code\cgmath-culling\src\lib.rs C:\Users\User\Code\cgmath-culling\target\release\build\cgmath-06fad89f901f0260\out\swizzle_operator_macro.rs
