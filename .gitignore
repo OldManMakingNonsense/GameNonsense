@@ -1,0 +1,6 @@
+/target/
+**/*.rs.bk
+CMakeCache.txt
+.vscode
+/src/tmp*
+/src/game/tmp*
